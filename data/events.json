@@ -1,1 +1,4 @@
-[]
+[
+  {"id":"e-hci-2027","title":"HCI KOREA 2027","org":"한국HCI학회","region":"한국","location":"강원 홍천","type":"학술대회","desc":"2027년 1월 27~29일 개최. 표시된 마감일은 논문 접수 기준입니다.","deadline":"2026-11-23","url":"https://hcikorea.org/board/maininfo/article/288095","last_checked":"2026-11-18"},
+  {"id":"e-ami-2027","title":"AMI 2027 Annual Conference","org":"Association of Medical Illustrators","region":"해외","location":"미국 버펄로","type":"학술대회","desc":"2027년 7월 13~16일 개최. 표시된 마감일은 발표·테크 쇼케이스·워크숍 제안서 기준입니다.","deadline":"2026-11-30","url":"https://ami.org/call-for-proposals-ami-2027-annual-conference/","last_checked":"2026-11-18"}
+]

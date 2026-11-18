@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "id": "j-bfd7e55a242d94aa122d",
+    "title": "PhD Intern, Software Engineer - Graphics (2027)",
+    "org": "Figma",
+    "category": "WebGL·그래픽스",
+    "type": "확인 필요",
+    "location": "San Francisco, CA • New York, NY",
+    "region": "해외",
+    "work_mode": "확인 필요",
+    "korea_eligible": "확인 필요",
+    "visa": "확인 필요",
+    "status": "접수 중",
+    "source": "greenhouse/figma",
+    "source_url": "https://www.figma.com/careers/",
+    "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004",
+    "first_seen": "2026-11-18",
+    "last_checked": "2026-11-18",
+    "tags": [
+      "Greenhouse"
+    ]
+  },
+  {
+    "id": "j-2afda8f8895992f20297",
+    "title": "AI Researcher",
+    "org": "Kitware",
+    "category": "과학 시각화",
+    "type": "풀타임",
+    "location": "Arlington, Virginia",
+    "region": "해외",
+    "work_mode": "현장",
+    "korea_eligible": "확인 필요",
+    "visa": "확인 필요",
+    "status": "접수 중",
+    "source": "lever/kitware",
+    "source_url": "https://jobs.lever.co/kitware",
+    "url": "https://jobs.lever.co/kitware/86a84190-f0a4-4c66-a04e-799bee215e8a",
+    "first_seen": "2026-11-18",
+    "last_checked": "2026-11-18",
+    "tags": [
+      "Lever"
+    ]
+  },
+  {
+    "id": "j-2c4aedea149dd3d02eb7",
+    "title": "AI Researcher",
+    "org": "Kitware",
+    "category": "과학 시각화",
+    "type": "풀타임",
+    "location": "Clifton Park, New York",
+    "region": "해외",
+    "work_mode": "현장",
+    "korea_eligible": "확인 필요",
+    "visa": "확인 필요",
+    "status": "접수 중",
+    "source": "lever/kitware",
+    "source_url": "https://jobs.lever.co/kitware",
+    "url": "https://jobs.lever.co/kitware/102aa9fd-44bd-4c54-b49c-b15935e058e7",
+    "first_seen": "2026-11-18",
+    "last_checked": "2026-11-18",
+    "tags": [
+      "Lever"
+    ]
+  },
+  {
+    "id": "j-8408d5602794562788fb",
+    "title": "Computational Imaging Researcher",
+    "org": "Kitware",
+    "category": "과학 시각화",
+    "type": "풀타임",
+    "location": "Minneapolis, MN",
+    "region": "해외",
+    "work_mode": "현장",
+    "korea_eligible": "확인 필요",
+    "visa": "확인 필요",
+    "status": "접수 중",
+    "source": "lever/kitware",
+    "source_url": "https://jobs.lever.co/kitware",
+    "url": "https://jobs.lever.co/kitware/7289713c-6882-44cc-8650-72030738b0b3",
+    "first_seen": "2026-11-18",
+    "last_checked": "2026-11-18",
+    "tags": [
+      "Lever"
+    ]
+  },
+  {
+    "id": "j-d9933617fb110af22b95",
+    "title": "Physics-Based Modeling Research Internship",
+    "org": "Kitware",
+    "category": "의료 시각화 개발",
+    "type": "확인 필요",
+    "location": "Carrboro, North Carolina",
+    "region": "해외",
+    "work_mode": "현장",
+    "korea_eligible": "확인 필요",
+    "visa": "확인 필요",
+    "status": "접수 중",
+    "source": "lever/kitware",
+    "source_url": "https://jobs.lever.co/kitware",
+    "url": "https://jobs.lever.co/kitware/db050983-7500-4b6d-96f5-19b75d5d7515",
+    "first_seen": "2026-11-18",
+    "last_checked": "2026-11-18",
+    "tags": [
+      "Lever"
+    ]
+  },
+  {
+    "id": "j-3e520b2dfecd304f1a11",
+    "title": "Physics-Based Modeling Researcher, Biomedical",
+    "org": "Kitware",
+    "category": "의료 시각화 개발",
+    "type": "풀타임",
+    "location": "Carrboro, North Carolina",
+    "region": "해외",
+    "work_mode": "현장",
+    "korea_eligible": "확인 필요",
+    "visa": "확인 필요",
+    "status": "접수 중",
+    "source": "lever/kitware",
+    "source_url": "https://jobs.lever.co/kitware",
+    "url": "https://jobs.lever.co/kitware/54cc51f3-5804-4e94-92d0-f5264e78fa43",
+    "first_seen": "2026-11-18",
+    "last_checked": "2026-11-18",
+    "tags": [
+      "Lever"
+    ]
+  }
+]

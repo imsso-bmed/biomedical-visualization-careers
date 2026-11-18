@@ -1,4 +1,14 @@
 {
-  "greenhouse": [],
-  "lever": []
+  "greenhouse": [
+    {"token":"figma","name":"Figma","region":"해외","focus":"graphics","url":"https://www.figma.com/careers/"}
+  ],
+  "lever": [
+    {"token":"kitware","name":"Kitware","region":"해외","focus":"visualization","url":"https://jobs.lever.co/kitware"}
+  ],
+  "manual": [
+    {"name":"BioDigital","region":"해외","focus":"3D 해부학·Web3D","url":"https://www.biodigital.com/careers"},
+    {"name":"Anatomage","region":"해외","focus":"의료 3D·해부학 교육","url":"https://apply.workable.com/anatomage/"},
+    {"name":"Surgical Science","region":"해외","focus":"수술 시뮬레이션","url":"https://careers.surgicalscience.com/"},
+    {"name":"메디컬아이피","region":"한국","focus":"의료영상 3D·기업 채용 페이지","url":"https://www2.saramin.co.kr/zf_user/company-info/view-inner-recruit?csn=RTZpbytWeWNtcEpZb1NaSHhlSklxQT09"}
+  ]
 }
